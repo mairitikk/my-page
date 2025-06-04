@@ -1,0 +1,7 @@
+ .navbar-logo{
+    max-width: 200px;
+        /* The image won't exceed 100px */
+        height: auto;
+        /* And will scale down if container is smaller */
+        display: block;
+ }
