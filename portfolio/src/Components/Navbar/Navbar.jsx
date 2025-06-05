@@ -6,6 +6,12 @@ const Navbar = () => {
     return (
         <div className='navbar'>
             <img src={drimt} alt="DriMt Logo" className="navbar-logo" />
+            <ul className="nav-menu">
+                <li>Home</li>
+                <li>About Me</li>
+                <li>Portfolio</li>
+                <li>Contact</li>
+            </ul>
         </div>
     )
 }
