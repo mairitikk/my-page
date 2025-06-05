@@ -5,3 +5,16 @@
         /* And will scale down if container is smaller */
         display: block;
  }
+ .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 170px;
+ }
+ .nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+ }
